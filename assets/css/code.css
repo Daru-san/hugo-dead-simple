@@ -12,8 +12,8 @@ pre {
   background-color: var(--code-background);
   padding: 0.7em;
   overflow-x: auto;
-  margin: 0px;
-  border: 1px solid var(--code-border);
+  margin-top: 20px;
+  border: 2px solid var(--code-hl);
   border-radius: 3px 0 3px 3px;
   line-height: 1.3;
 }
